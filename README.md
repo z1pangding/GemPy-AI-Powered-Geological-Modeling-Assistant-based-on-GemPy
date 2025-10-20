@@ -1,3 +1,4 @@
+![gempy自动建模示例](https://github.com/user-attachments/assets/457f6aad-a52c-474b-8bad-ff38b5663e72)
 # 基于GemPy的AI地质建模助手 / AI-Powered Geological Modeling Assistant based on GemPy
 
 [**中文**](#中文) | [**English**](#english)
