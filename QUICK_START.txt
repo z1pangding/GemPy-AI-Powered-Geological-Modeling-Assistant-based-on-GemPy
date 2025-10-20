@@ -1,0 +1,14 @@
+GemPy AI 地质建模工具快速入门指南
+
+1. 从 https://python.org 下载并安装 Python 3.10 或更高版本
+
+2. 通过在命令提示符中运行以下命令安装所需包：
+   pip install -r requirements.txt
+
+3. 通过双击 gempy_gui.exe 运行应用程序
+
+4. 首次使用时：
+   - 如果要使用AI功能，需要 ModelScope API 密钥
+   - 也可以不使用AI，手动指定CSV文件
+
+5. 如果遇到任何问题，请查看 INSTALLATION_INSTRUCTIONS.md 文件获取故障排除方法。
